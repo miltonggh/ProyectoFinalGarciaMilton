@@ -167,8 +167,3 @@ const limpiarHTML2 = () => {
 
 
 carritoServicios();
-
-
-
-
-
