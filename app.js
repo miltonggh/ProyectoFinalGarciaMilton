@@ -35,7 +35,7 @@ const montoCarrito= document.getElementById("montoCarrito")
 const carritoServicios = () => {
     //Catpuro datos de archivo data.Json
     const pedirPosts = async () => {
-        const res = await fetch("./data.json");
+        const res = await fetch("data.json");
         const servicios = await res.json();
 
             //Creo Div con servicios del carrito
