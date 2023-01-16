@@ -1,0 +1,5 @@
+[
+    {"id": 1, "servicio": "Diseño", "precio": 5000,"img": "img/diseno.jpg"},
+    {"id": 2, "servicio": "Presupuesto", "precio": 10000,"img": "img/presupuesto.jpg"},
+    {"id": 3, "servicio": "Obra", "precio": 50000,"img": "img/obra.jpg"}
+]
